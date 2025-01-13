@@ -20,7 +20,7 @@ ToRs (please add, edit as you see appropriate).
     Atlantis the correct tool? Are the polygons too large?
 
 5.  Model skill. What is good enough? Can we build a framework to
-    formalize model skill testing? (See Olsen, 2016)
+    formalize model skill testing? (See Olsen, 2016 and Planque et al., 2022 - OPE; 10.1016/j.ecolmodel.2022.110059)
 
 6.  SE component linkage, external models via R vs internal module.
 
