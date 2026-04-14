@@ -45,7 +45,7 @@ Passcode: Dy9MV2P9
 | | • Other contributions welcome | |
 | 15:00 – 17:00 | **Manual & wiki review** | Albi |
 | | Status of documentation, areas needing update, task assignment | |
-| Evening | **Group dinner** — Cecilie's house | |
+| Evening | **Group dinner** — Cecilie's house (Henrik Jægers vei 16)| |
 
 ---
 
